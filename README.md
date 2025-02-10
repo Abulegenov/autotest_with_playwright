@@ -5,3 +5,9 @@ Playwright is a powerful tool for end-to-end testing web pages. Here is the [doc
 In this example, I used the website with various types of interactions and operations within web pages you might see - [The Internet](https://the-internet.herokuapp.com/).
 
 It is also possible to scrape web data using Playwright.
+
+Make sure to write in your console:
+
+```bash
+pip install playwright
+playwright install
